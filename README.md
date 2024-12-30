@@ -1,1 +1,1 @@
-# exam_javascript
+# calculator
